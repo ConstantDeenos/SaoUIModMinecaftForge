@@ -1,0 +1,15 @@
+{
+  "item.saocm.ruby": "Ruby",
+  "block.saocm.ruby_block": "Block of Ruby",
+  "block.saocm.ruby_ore": "Ruby Ore",
+  "itemGroup.craftingMaterials": "Sao Crafting Materials",
+  "itemGroup.customBlocks": "Sao Blocks",
+  "itemGroup.customWeapons": "Sao Weapons",
+  "item.saocm.ruby_sword": "Ruby Sword",
+  "item.saocm.ruby_pickaxe": "Ruby Pickaxe",
+  "item.saocm.ruby_axe": "Ruby Axe",
+  "item.saocm.ruby_shovel": "Ruby Shovel",
+  "item.saocm.ruby_hoe": "Ruby Hoe",
+  "key.v": "Main Hud Pop Up",
+  "key.categories.saomod": "SAO Mod Keybinds"
+}

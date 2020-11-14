@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "rrr",
+    "rrr",
+    "rrr"
+  ],
+  "key":
+  {
+    "r":
+    {
+      "item": "saocm:ruby"
+    }
+  },
+  "result":
+  {
+    "item": "saocm:ruby_block",
+    "count": 1
+  }
+}

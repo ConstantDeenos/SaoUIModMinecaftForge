@@ -1,0 +1,48 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[33,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+
+license="All rights reserved"
+
+issueTrackerURL="http://my.issue.tracker/" #optional
+
+[[mods]] #mandatory
+
+modId="saocm" #mandatory
+
+version="1.16.2-0.1.1" #mandatory
+
+displayName="Sao Mmo Mod" #mandatory
+
+updateJSONURL="http://myurl.me/" #optional
+
+displayURL="http://example.com/" #optional
+
+logoFile="logo.png" #optional
+
+credits="https://www.youtube.com/watch?v=dQw4w9WgXcQ" #optional
+
+authors="ConstantDeenos, Tony4k" #optional
+
+description='''
+A minecraft mod that introduces many mechanics required for the full SAO experience in Minecraft
+'''
+
+[[dependencies.examplemod]] #optional
+
+    modId="forge" #mandatory
+
+    mandatory=true #mandatory
+
+    versionRange="[33,)" #mandatory
+
+    ordering="NONE"
+
+    side="BOTH"
+
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.2]"
+    ordering="NONE"
+    side="BOTH"
